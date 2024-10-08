@@ -5,4 +5,4 @@ All kinds of lovely stuff are going on here.
 
 Change added in master branch
 
-blah
+blah and blah
